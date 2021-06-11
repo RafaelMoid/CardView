@@ -12,7 +12,7 @@ import com.example.cardview.adapter.PostagemAdapter;
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerPostagem;
-
+    private List<> postagens;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

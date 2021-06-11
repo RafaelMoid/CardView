@@ -51,6 +51,6 @@ public class PostagemAdapter extends RecyclerView.Adapter<PostagemAdapter.MyView
 
             }
         }
-    }
+
 
 
